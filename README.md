@@ -1,6 +1,10 @@
 # stock-sentiment-analysis-using-news-headline-nlp-project
   stock sentiment analysis using news headline
   
+  
+  ![alt text](https://miro.medium.com/max/3200/0*Orh8r8Ln2TAgKd9f)
+  
+  
   ## project overview
   
   IN THIS project WE WILL CLASSIFY WHETHER THE STOCKS OF THE COMPANY WILL GO UP OR GO DOWN
